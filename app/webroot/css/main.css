@@ -1,0 +1,20 @@
+/* 
+    Document   : main
+    Created on : 30/03/2013, 14:02:01
+    Author     : paulo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.list-scroll {
+	width: 100%;
+	height: 200px;
+	overflow: scroll
+}
+
+
+#formEdit {
+ position:fixed;
+ margin-top:-90px;
+}
